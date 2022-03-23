@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Raj0078
+- 👀 I’m interested in learning anything that I am not familiar with.
+- 🌱 I’m currently learning Python and brushing up on Javascript
+-  📫 shoot me an email at bibekrazz2013@gmail.com
